@@ -6,3 +6,7 @@ cat
 rm
 rm -rf
 git log
+git diff -> para ver o que foi modificado
+d
+
+: )
