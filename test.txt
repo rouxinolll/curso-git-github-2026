@@ -2,3 +2,5 @@ pwd
 cd
 mkdir
 ls
+cat
+rm
