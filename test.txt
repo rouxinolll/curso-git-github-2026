@@ -4,3 +4,5 @@ mkdir
 ls
 cat
 rm
+rm -rf
+git log
