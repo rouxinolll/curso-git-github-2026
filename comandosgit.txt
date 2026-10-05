@@ -1,0 +1,24 @@
+git init .
+git add
+git commit
+git status
+
+git reset (volta,sai do commit)
+git diff (pra ver oque mudou no arquivo)
+git checkout (entra num branch)  -b "nome-branch"( duplica a branch) -D (deleta branch)
+git merge "nome-branch"(vai pega oque tem na branch  e coloca na atual)
+
+
+
+
+
+
+alteração da ana
+
+uga uga 
+eu sei de nada
+
+estou aprendendo!!
+
+: (
+
