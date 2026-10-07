@@ -42,3 +42,7 @@ meu primeiro contato
  toma toma
  do
  duar bala
+
+
+
+sei la , alguma ateração
