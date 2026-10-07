@@ -39,3 +39,6 @@ git branch -D <nova_branch>
 
 aprendendo
 meu primeiro contato
+ toma toma
+ do
+ duar bala
